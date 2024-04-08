@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+.intro{
+	background-image: url("../IMAGES/bg.jpg");
+	background-position: center top;
+	background-size: 100%;
+	min-height: 1000px
+}
+.cover
+{
+		background-image: url( "../img/bg-bubble1.png");  background-position: center center, center center;  background-size: cover, cover;  background-repeat: repeat, repeat;
+}
+
+.navbar4	
+{color: #FFFDFD}
+.bg-navbarfix 
+{background-color:rgba(237,225,239,0.8)}
+.text-visual
+{
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;	
+}
+.text-h1
+{
+	font-size: 5rem;
+	font-weight: 600;
+	text-shadow: 2px 2px 5px #0c122d;
+	color: #fff
+}
+.cover1
+{
+background-image: url( "../img/bg-bubble2.png");  background-position: center top;  background-size: cover, cover;  background-repeat: repeat, repeat; border-radius: 50px; box-shadow: 2px 2px 5px #fff;
+}
+.bg-footer
+{
+	background: rgb(205,221,254);
+background: linear-gradient(174deg, rgba(205,221,254,1) 0%, rgba(36,10,66,0.9234287464985994) 100%);
+}
+*{
+	scroll-behavior: smooth;
+	scroll-padding-top: 14rem;
+}
+.py-top
+{
+  padding-top: 8rem
+} 
+.cover2
+{
+	background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(224,170,207,0.6629245448179272) 16%, rgba(148,149,233,0.8758096988795518) 100%);
+	border-radius: 50px
+}
+
+
+
+
+
+
